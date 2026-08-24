@@ -38,7 +38,7 @@
 ---
 
 ## Contato ✉️ 
-- tanchela.bruno@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:tanchela.bruno@gmail.com)
 <!--
 After, add a message saying that you're open to new job openings
 -->
