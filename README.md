@@ -3,7 +3,7 @@
 
 - 🎓 Estudando **Desenvolvimento de Sistemas**
 - 🖥️ Focado em **Python, APIs, HTML e CSS**
-- 🚀 Estou me preparando para o mercado de tecnologia!
+- 🚀 Estou me preparando para o mercado de tecnologia
 
 ---
 
